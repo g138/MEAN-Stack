@@ -3,6 +3,11 @@
     margin-top: 60px;
 }
 
+
+mat-spinner {
+    margin: auto;
+}
+
 .info-text{
     text-align: center;
 }
